@@ -2,6 +2,8 @@
 
 > A project for learn Vuejs fundamentals.
 
+![screenshot_ggn](https://cloud.githubusercontent.com/assets/6833094/23484961/1611850e-feb8-11e6-9ad6-631aa40ba408.png)
+
 ## Build Setup
 
 ``` bash
